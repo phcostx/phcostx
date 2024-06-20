@@ -7,7 +7,7 @@
 
 <p>🔍 I am looking for an internship opportunity in the development field to apply and expand my knowledge.</p>
 
-<p>🖥️ <a href="https://www.linkedin.com/in/phcostx/" target="blank_">Linkedin</a> <a href = "mailto:phcostx@hotmail.com"></a>Email</p>
+<p>🖥️ <a href="https://www.linkedin.com/in/phcostx/" target="blank_">Linkedin</a> 
 <hr>
 
 [![My Skills](https://skillicons.dev/icons?i=cs,mysql)](https://skillicons.dev)
