@@ -5,7 +5,7 @@
 
 <p>🔠 C1 Advanced English Level</p>
 
-<p>🔍 I am looking for an internship opportunity in the development area to apply and expand my knowledge.</p>
+<p>🔍 I am looking for an internship opportunity in the development field to apply and expand my knowledge.</p>
 
 <p>🖥️ <a href="https://www.linkedin.com/in/phcostx/" target="blank_">Linkedin</a></p>
 <hr>
