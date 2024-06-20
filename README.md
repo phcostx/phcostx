@@ -1,16 +1,19 @@
-## Hi there 👋
+<code>Console.Write("Welcome to my github!😆")</code>
+<hr>
 
-<!--
-**phcostx/phcostx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>🎓 Studying Systems Analysis and Development at PUC <a href="https://www.pucminas.br/destaques/Paginas/default.aspx" target="blank_">PUC Minas</a></p>
 
-Here are some ideas to get you started:
+<p>🔠 C1 Advanced English Level</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>🔍 I am looking for an internship opportunity in the development area to apply and expand my knowledge.</p>
+
+<p>🖥️ <a href="https://www.linkedin.com/in/phcostx/" target="blank_">Linkedin</a></p>
+<hr>
+
+[![My Skills](https://skillicons.dev/icons?i=cs,mysql)](https://skillicons.dev)
+
+
+
+
+
+
