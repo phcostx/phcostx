@@ -1,7 +1,7 @@
 <code>Console.Write("Welcome to my github!😆")</code>
 <hr>
 
-<p>🎓 Studying Systems Analysis and Development at <a href="https://www.pucminas.br/destaques/Paginas/default.aspx" target="blank_">PUC Minas</a></p>
+<p>🎓 Studying Information System at <a href="https://www.pucminas.br/destaques/Paginas/default.aspx" target="blank_">PUC Minas</a></p>
 
 <p>🔠 C1 Advanced English Level</p>
 
