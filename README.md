@@ -10,7 +10,7 @@
 <p>🖥️ <a href="https://www.linkedin.com/in/phcostx/" target="blank_">Linkedin</a> 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,mysql)](https://skillicons.dev)
+
 
 
 
