@@ -5,7 +5,7 @@
 
 <p>🔠 C1 Advanced English Level</p>
 
-<p>🔍 Estou procurando por uma oporturnidade de estágio para aplicar e expandir meus conhecimentos.</p>
+<p>🔍 Estou procurando por uma oporturnidade de estágio em desenvolvimento backend.
 
 <p>🖥️ <a href="https://www.linkedin.com/in/phcostx/" target="blank_">Linkedin</a> 
 <hr>
