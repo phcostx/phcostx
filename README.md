@@ -1,4 +1,4 @@
-<code>System.out.println("Bem Vindo ao meu github!😆")</code>
+<code>System.out.print("Bem Vindo ao meu github!😆")</code>
 <hr>
 
 <p>🎓 Estudando Sistemas de Informação na <a href="https://www.pucminas.br/destaques/Paginas/default.aspx" target="blank_">PUC Minas</a></p>
