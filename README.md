@@ -1,37 +1,29 @@
 <table>
   <tr>
-    <td valign="top">
+    <td valign="middle">
 
-# Olá, sou o Pedro Costa 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&width=440&lines=Hey%2C+I'm+Pedro+Costa+%F0%9F%91%8B;Data+Enthusiast+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;Turning+raw+data+into+decisions+%F0%9F%93%8A)](https://git.io/typing-svg)
 
-Estagiário de Dados na [Plena Alimentos](https://www.plenaalimentos.com.br/), cursando Sistemas de Informação na PUC Minas.
-Trabalho com pipelines ETL, SQL e visualização de dados — transformando dados brutos em insights que apoiam decisões de negócio.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/phcostx)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:phcostx@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/phcostx)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phcostx@hotmail.com)
 
   </td>
   <td valign="middle">
-    <img src="https://media1.tenor.com/m/YjiuFd-KUVQAAAAd/one-piece-one-piece-movie-9.gif" width="280"/>
+    <img src="https://media1.tenor.com/m/UXMcsIiHokcAAAAd/waving-pim.gif" width="180"/>
   </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Skills
+## 💻 Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/><sub>Python</sub><br/><sub><i>Pandas · Matplotlib · Jupyter</i></sub></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/><br/><sub>R</sub><br/><sub><i>Shiny · Quarto</i></sub></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/><br/><sub>SQL Server</sub><br/><sub><i>T-SQL · ETL</i></sub></td>
-    <td align="center" width="96"><img src="https://img.icons8.com/color/48/power-bi.png" width="40"/><br/><sub>Power BI</sub></td>
-    <td align="center" width="96"><img src="https://img.icons8.com/color/48/tableau-software.png" width="40"/><br/><sub>Tableau</sub></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br/><sub>Git</sub></td>
-  </tr>
-</table>
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
-🎓 **PUC Minas** — Bacharelado em Sistemas de Informação *(2023 – 2027)*&nbsp;&nbsp;•&nbsp;&nbsp;🌎 **Inglês C1**
+🎓 **PUC Minas** — Sistemas de Informação *(2023 – 2027)*&nbsp;&nbsp;•&nbsp;&nbsp;🌎 **English C1**
